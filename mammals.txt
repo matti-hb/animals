@@ -2,4 +2,3 @@ leopard
 elephant
 lion 
 seal
-crocodile
